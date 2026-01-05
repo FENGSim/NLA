@@ -4,3 +4,4 @@
 3. slepc-3.23
 4. openblas
 5. superlu
+6. hypre
